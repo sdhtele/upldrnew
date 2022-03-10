@@ -17,8 +17,8 @@ import time
 from datetime import datetime
 
 from plugins.config import Config
-from plugins.translation import Translation
-from plugins.custom_thumbnail import *
+from plugins.script import Translation
+from plugins.thumbnail import *
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 from pyrogram.types import InputMediaPhoto
 from functions.display_progress import progress_for_pyrogram, humanbytes
