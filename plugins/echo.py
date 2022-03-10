@@ -11,7 +11,7 @@ import requests, urllib.parse, filetype, os, time, shutil, tldextract, asyncio, 
 from PIL import Image
 from plugins.config import Config
 import time
-from plugins.translation import Translation
+from plugins.script import Translation
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 from pyrogram import filters
 from pyrogram import Client
