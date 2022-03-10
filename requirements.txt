@@ -1,1 +1,20 @@
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+pyrogram
+requests
+tgcrypto
+yt-dlp
+olefile
+motor
+pymongo
+dnspython
+psutil
+loggers
+filetype
+tldextract
+aiofiles
+pyromod
 
