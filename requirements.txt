@@ -6,7 +6,7 @@ Pillow
 pyrogram
 requests
 tgcrypto
-https://github.com/Tellybots/yt-dlp/archive/refs/tags/2.9.9.zip
+https://github.com/Naysabots/yt-dlp/archive/refs/tags/2022.04.08.zip
 olefile
 motor
 pymongo
